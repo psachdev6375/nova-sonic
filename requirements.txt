@@ -1,0 +1,9 @@
+boto3
+pyaudio
+asyncio
+aws_sdk_bedrock_runtime
+tk
+pytz
+numpy
+rx>=3.2.0
+smithy-aws-core>=0.0.1
